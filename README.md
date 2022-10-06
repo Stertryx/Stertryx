@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **moinak1964@gmail.com**
 
-- 📄 [Know about my experiences] [https://www.canva.com/design/DAFItKgcGAQ/G2OiWcK7kReDsblZ3Q9gTg/view?utm_content=DAFItKgcGAQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFItKgcGAQ/G2OiWcK7kReDsblZ3Q9gTg/view?utm_content=DAFItKgcGAQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 [Know about my experiences] (https://www.canva.com/design/DAFItKgcGAQ/G2OiWcK7kReDsblZ3Q9gTg/view?utm_content=DAFItKgcGAQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 - ⚡ Fun fact **I love grinding games**
 
