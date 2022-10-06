@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Moinak.</h1>
 <h3 align="center">Data Science | Front-end | Deep Learning</h3>
+<img align="right" alt="Coding" width="400"
+     src="https://i.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.webp">
 
 - 🔭 I’m currently working on **Deep Learning projects**
 
 - 🌱 I’m currently learning **Angular Framework and Hadoop**
+
+- 👯 I' m looking to collaborate with fellow AI developers and machine learning engineers to unsheathe the mysteries lying in the domain of AI
 
 - 💬 Ask me about **AI, Deep Learning and Data Science**
 
@@ -11,7 +15,7 @@
 
 - 📄 [Know about my experiences](https://www.canva.com/design/DAFItKgcGAQ/G2OiWcK7kReDsblZ3Q9gTg/view?utm_content=DAFItKgcGAQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-- ⚡ Fun fact **I love grinding games**
+- ⚡ Fun fact: **I love grinding games** :video_game:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
