@@ -3,10 +3,6 @@
   <strong>Data Scientist | Banking & Finance Domain</strong>
 </p>
 
-<p align="center">
-  <img src="https://i.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.webp" width="280" alt="Professional Analytics">
-</p>
-
 ---
 
 ### 💼 Professional Overview
@@ -19,18 +15,8 @@ I am an analytical professional with **3+ years of experience** in the banking s
 
 ---
 
-### 🛠️ Core Competencies
-| Domain | Expertise |
-| :--- | :--- |
-| **Data Science** | Python, Deep Learning (PyTorch/TF), OpenCV |
-| **Engineering** | Django, Java, SQL, AWS |
-| **Data Tools** | Pandas, Hadoop, MongoDB |
-| **Visualization** | Angular, JavaScript, Adobe Suite |
-
----
-
 ### 🤝 Connect with Me
-- ✉️ **Direct:** [datascient@gmail.com](mailto:datascient@gmail.com)
+- ✉️ **Direct:** [datascient@gmail.com](mailto:datascientist.moinak@gmail.com)
 - 💼 **LinkedIn:** [Moinak Pal Chowdhury](https://www.linkedin.com/in/moinak-pal-chowdhury-2575b8189/)
 - 📄 **Portfolio:** [View My CV & Projects](https://www.canva.com/design/DAFItKgcGAQ/G2OiWcK7kReDsblZ3Q9gTg/view)
 
